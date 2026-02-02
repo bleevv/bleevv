@@ -1,6 +1,6 @@
 ```bash
 $ cat /etc/passwd | grep bleevv
-> A creative developer who is building beautiful things.
+> A developer who is building beautiful things.
 > Frontend engineer. AI Commander.
 
 $ neofetch
