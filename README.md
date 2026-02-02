@@ -1,4 +1,21 @@
-### Cook and Ship
+```bash
+$ cat /etc/passwd | grep bleevv
+> A creative developer who is building beautiful things.
+> Frontend engineer. AI Commander.
+
+$ neofetch
+
+bleevv@github
+───────────
+OS: macOS, Windows
+Status: Work in Tokyo
+Skills:
+  ├─ Langs: TypeScript
+  ├─ Frontend: React, Next.js
+  ├─ Backend: Node.js, Drizzle, Prisma
+  ├─ Infra: Docker, Redis, PostgreSQL, MongoDB
+  └─ Agent: Cursor, Claude Code
+```
 
 ![skills](https://skillicons.dev/icons?i=vercel,nextjs)
 
